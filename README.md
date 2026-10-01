@@ -1,6 +1,6 @@
 # Hola, soy Javier Herazo
 
-**Desarrollador Full Stack Junior · Barranquilla, Colombia**
+**Desarrollador Full Stack Junior · Barranquilla, Colombia.**
 
 Estudio Ingeniería de Sistemas en la Universidad Libre y desde abril de 2026 trabajo como Intern Dev en Ombia, participando en desarrollo de aplicaciones empresariales con funciones full stack. Me interesa construir funcionalidades completas: desde la interfaz y la API hasta las consultas de datos y la validación de su comportamiento.
 
